@@ -1,6 +1,6 @@
 # Arduino RC Kumanda Ve Alıcı
 ## nrf24l01 modülü kullanarak rc araçlar için kumanda ve alıcı sistemi geliştirildi.
-![kumanda](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/transmitter.jpg)
+![kumanda](WhatsApp Image 2024-10-17 at 14.26.58 (7).jpeg)
 </br>
 ## Kumandadaki joystickler ile alıcıdaki fırçasız motor ve servo motorlar kontrol edilir. Ayrıca kumandadan aktif edilme durumuna göre servo motorlar, alıcıdaki eğim sensörünün eğimi ile de kontrol edilebilir. Joysticklerin yakınındaki butonlar ile servo motorların trim ayarları yapılır.
 ![alıcı](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/receiver.jpg)
