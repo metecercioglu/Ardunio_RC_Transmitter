@@ -6,7 +6,7 @@
 ![alıcı](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/receiver.jpg)
 ## kumanda menüsünden reverse bölümüne girdiğimizde seçtiğimiz kanaldaki servo motorların çalışma yönü değişiyor. 5. kanalın yönü değiştiği taktirde servo motorların kontrolünün joystik veya eğim sensörüne geçeceğine karar veriliyor.
 ![reverse](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/ekran_reverse.jpg)
-![logo](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/ekran_logo.jpg)
+![logo](https://github.com/metecercioglu/Ardunio_RC_Transmitter/blob/main/WhatsApp%20Image%202024-10-17%20at%2014.26.58%20(1).jpeg)
 ## UYARI 
 ### Sistemde düzeltilmesi gereken sorunlar var.</br> Servo motorların sağlıklı çalışması için kumandanın menüde(ekran_menu.jpg) olması gerekir. </br> Servo motorları kontrol ederken aşırı hızlı davrandığımızda alıcı donuyor. Reset işlemi eklenecektir.  
 ![buton](https://github.com/OmerYigit35/Arduino_RC_Transmitter/blob/main/buton.jpg)
